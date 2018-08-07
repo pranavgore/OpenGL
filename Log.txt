@@ -1,0 +1,41 @@
+Log file generated successfully
+Name : ../../Resources/Objects/BalconyBaluster.obj
+Vertices : 0
+Parameters : 0
+Texture Coordinates : 0
+Normals : 0
+Faces : 0
+Name : ../../Resources/Objects/GateBaluster.obj
+Vertices : 0
+Parameters : 0
+Texture Coordinates : 0
+Normals : 0
+Faces : 0
+Name : ../../Resources/Objects/RoofShingle.obj
+Vertices : 0
+Parameters : 0
+Texture Coordinates : 0
+Normals : 0
+Faces : 0
+Name : ../../Resources/Objects/BalconyDesign.obj
+Vertices : 0
+Parameters : 0
+Texture Coordinates : 0
+Normals : 0
+Faces : 0
+Name : ../../Resources/Objects/NewelCap.obj
+Vertices : 0
+Parameters : 0
+Texture Coordinates : 0
+Normals : 0
+Faces : 0
+Name : ../../Resources/Objects/PillarBase.obj
+Vertices : 0
+Parameters : 0
+Texture Coordinates : 0
+Normals : 0
+Faces : 0
+ end cube's translation X : 0.000000 Y : 10.000000 Z : -150.000000 
+scale X : 1.000000 Y : 1.000000 Z : 1.000000
+rotation X : 0.000000 Y : 0.000000 Z : 0.000000
+Goodbye..
